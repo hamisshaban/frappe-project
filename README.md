@@ -68,3 +68,13 @@ cd frappe-bench
 ```bash
 bench new-site mysite.local
 ```
+
+## Configuration and access instructions
+
+- Accessing the frappe site was done via the browser on the address `http://localhost:8000`
+
+- From the main dashboard i was able to access the installed modules i.e CRM, HR, etc.
+  
+- Since each module has its own settings, i was able to access the settings for each of the installed modules.
+  
+## Screenshot
