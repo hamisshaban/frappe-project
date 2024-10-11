@@ -79,12 +79,12 @@ bench new-site mysite.local
   
 ## Screenshot
 
-![Initial setup](images/Screenshot 2024-10-11 141755.png)
+![Initial setup](./images/Screenshot 2024-10-11 141755.png)
 
-![Initial setup 2](images/Screenshot 2024-10-11 142930.png)
+![Initial setup 2](./images/Screenshot 2024-10-11 142930.png)
 
-![Initial setup 3](images/Screenshot 2024-10-11 143127.png)
+![Initial setup 3](./images/Screenshot 2024-10-11 143127.png)
 
-![Initial setup 4](images/Screenshot 2024-10-11 144329.png)
+![Initial setup 4](./images/Screenshot 2024-10-11 144329.png)
 
-![Initial setup 5](images/Screenshot 2024-10-11 163908.png)
+![Initial setup 5](./images/Screenshot 2024-10-11 163908.png)
