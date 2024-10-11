@@ -44,8 +44,22 @@ sudo mysql_secure_installation
 ```bash
 mysql -u root -p
 ```
+
 ### 4. Installed bench
 - This is to manage frappe application
 ```bash
 sudo pip3 install frappe-bench
+```
+### 5. Creating frappe environment using bench
+
+```bash
+bench init --frappe-branch version-15 frappe-bench
+```
+
+- This created a frappe-bench directory in my home directory
+
+- I navigated into the directory
+
+```bash
+cd frappe-bench
 ```
